@@ -1,21 +1,21 @@
 [
   {
     "chainId": 42161,
-    "id": "silo-finance",
-    "name": "Silo Finance",
-    "logo": "https://app.silo.finance/silo-icon.png",
-    "logo-sm": "https://s2.coinmarketcap.com/static/img/coins/64x64/16010.png",
-    "tagline": "Permissionless and risk-isolated lending markets for all crypto assets",
-    "tags": ["lending", "DAO", "yield farming"],
-    "description": "Silo Finance is a non-custodial lending protocol that creates permissionless and risk-isolated lending markets for all crypto assets, so you can borrow any token using another securely.\nSilo on Arbitrum uses an isolated-pool approach where every token asset has its own lending market and is paired against the bridge assets ETH and USDC. Lenders in all protocols are only exposed to the risk of ETH and USDC at any given time. Since all tokens are paired with ETH or USDC, there is only a single market for every token asset, preventing fractured liquidity and allowing greater protocol efficiency.",
-    "tokens": ["0x0341C0C0ec423328621788d4854119B97f44E391"],
-    "twitter": "https://twitter.com/SiloFinance",
-    "discord": "https://discord.com/invite/silo-finance",
-    "docs": "https://silopedia.silo.finance",
-    "blog": "https://medium.com/silo-protocol",
-    "github": "https://github.com/silo-finance",
-    "telegram": "https://t.me/silo_community",
-    "defillama": "https://defillama.com/protocol/silo-finance",
-    "website": "https://app.silo.finance"
+    "id": "camelot",
+    "name": "Camelot DEX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22949.png",
+    "cover": "https://camelot.exchange/img/knight-hero.svg",
+    "tagline": "The Arbitrum native DEX",
+    "tags": ["dex", "DAO", "yield farming"],
+    "description": "Camelot is an ecosystem-focused and community-driven DEX built on Arbitrum.\nCamelot has been built as a highly efficient and customizable protocol, allowing both builders and users to leverage our custom infrastructure for deep, sustainable, and adaptable liquidity. Camelot moves beyond the traditional design of DEXs to focus on offering a tailored approach that prioritises composability.",
+    "tokens": ["0x3d9907f9a368ad0a51be60f7da3b97cf940982d8","0x3caae25ee616f2c8e13c74da0813402eae3f496b"],
+    "twitter": "https://twitter.com/camelotdex",
+    "discord": "https://discord.com/invite/camelotdex",
+    "docs": "https://docs.camelot.exchange",
+    "blog": "https://camelotdex.medium.com",
+    "github": "https://github.com/CamelotLabs",
+    "telegram": "https://t.me/camelotdex",
+    "defillama": "https://defillama.com/protocol/camelot",
+    "website": "https://app.camelot.exchange"
   }
 ]
