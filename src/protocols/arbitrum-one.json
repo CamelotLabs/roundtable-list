@@ -144,13 +144,10 @@
         "name": "Halls of Olympia",
         "logo": "https://pbs.twimg.com/profile_images/1488780763667779584/NEVOGJ-u_400x400.jpg",
         "cover": "https://hallsofolympia.io/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGaGFsbHNvZm9seW1waWEuaW8lMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjMlMkYwMiUyRmhvby1sb2dvLnBuZyZjYWNoZU1hcmtlcj0xNjc4MzAyOTc3LTE2NjM0NyZ0b2tlbj1mMmY1YmI2NjJmZmJlZmJm.q.png",
-        "tagline": "Decentralized On-Chain iGaming Infrastructure",
-        "tags": ["e-gaming", "infrastructure"],
-        "description": "The WINR Protocol pioneers the transition of iGaming to web3\n by providing smart contract tools, a liquidity engine,\n and an incentive framework to builders.",
-        "tokens": [
-            "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
-            "0x63097E97BA51b64547Cf1F4Ba154495D7af74582"
-        ],
+        "tagline": "A blockchain based metaverse set in a time of mythical greek gods and olympians.",
+        "tags": ["gaming", "racing", "openworld"],
+        "description": "Own and play with your stable of horses, chariots and gladiators to win the favour of the gods.\n Trade and upgrade equipment, Breed and create the strongest horses and train your gladiators to enter the fighting pits.",
+        "tokens": ["0xEf51ddC7d002165C1D62E0604fF2980dC6517AD2"],
         "twitter": "https://twitter.com/hallsofolympia",
         "discord": "discord.gg/hoolympia",
         "docs": "https://halls-of-olympia-1.gitbook.io/halls-of-olympia/",
