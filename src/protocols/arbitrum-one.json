@@ -127,5 +127,23 @@
     "blog": "https://mirror.xyz/0x7aad0EDbD7E74D3A4BE0533A5D3303f5E23544b4",
     "github": "https://github.com/winrprotocol/WINR_Protocol",
     "website": "https://winr.games"
+  },
+  {
+    "chainId": 42161,
+    "id": "redacted",
+    "name": "Redacted",
+    "logo": "https://app.redacted.finance/_next/image?url=%2Fassets%2Fimages%2Flogo%2FRedacted-LogoMark-Light-TransBG-72dpi.png&w=3840&q=75",
+    "cover": "https://app.redacted.finance/_next/image?url=%2Fassets%2Fimages%2Flogo%2FRedacted-LogoLockup-Light-TransBG-72dpi.png&w=3840&q=75",
+    "tagline": "Empowering on-chain liquidity, governance, and cash flow for DeFi protocols",
+    "tags": ["yield", "metagovernance"],
+    "description": "Redacted Protocol is a hub for BTRFLY users to engage in governance and earn revenue from Redacted treasury and product suite.",
+    "tokens": ["0xc55126051B22eBb829D00368f4B12Bde432de5Da"],
+    "twitter": "https://twitter.com/redactedcartel",
+    "discord": "https://discord.com/invite/redactedcartel",
+    "docs": "https://docs.redacted.finance/",
+    "blog": "https://mirror.xyz/0xE90c74145245B498fef924fAdC7bb34253c7cF90",
+    "github": "https://github.com/redacted-cartel",
+    "website": "https://app.redacted.finance/",
+    "defillama": "https://defillama.com/protocol/redacted-protocol"
   }
 ]
