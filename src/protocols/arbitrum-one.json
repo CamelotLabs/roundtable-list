@@ -8,14 +8,13 @@
     "tagline": "Umami: Home of Real Yield on Arbitrum",
     "tags": ["yield", "vaults", "DAO"],
     "description": "Umami Finance is a Decentralized Autonomous Organization (DAO) where holders vote to decide the future of the project. $UMAMI is the lifeblood of the Umami ecosystem, giving holders a direct claim on the fee revenue our products such as our upcoming flagship Delta Minimized GLP Vaults.",
-    "tokens": ["0x1622bF67e6e5747b81866fE0b85178a93C7F86e3", "0x2AdAbD6E8Ce3e82f52d9998a7f64a90d294A92A4","0x1922C36F3bc762Ca300b4a46bB2102F84B1684aB"],
+    "tokens": ["0x1622bF67e6e5747b81866fE0b85178a93C7F86e3","0x1922C36F3bc762Ca300b4a46bB2102F84B1684aB"],
     "website": "https://umami.finance/",
     "twitter": "https://twitter.com/UmamiDao",
     "discord": "https://discord.gg/umamidao",
     "docs": "https://umami-dao.gitbook.io/umami-dao/",
     "blog": "https://umamifinance.medium.com/",
     "github": "https://github.com/UmamiDAO",
-    "telegram": null,
     "defillama": "https://defillama.com/protocol/umami-finance"
   },
   {
