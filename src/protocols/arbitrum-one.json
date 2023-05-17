@@ -214,5 +214,22 @@
     "discord": "https://discord.gg/QFPWUBmyAD",
     "docs": "https://docs.d2.finance/docs/",
     "blog": "https://medium.com/@Dsquaredfinance"
-  }
+  },
+  {
+    "chainId": 42161,
+    "id": "Lyra",
+    "name": "Lyra",
+    "logo": "https://ibb.co/GFKFjG4",
+    "cover": "https://ibb.co/JHxKs4c",
+    "tagline": "An Open Protocol for Trading Options",
+    "tags": ["options", "trading", "yield"],
+    "description": "Lyra is an option automated market maker (AMM) that allows traders to buy and sell options on cryptocurrencies against a pool of liquidity.",
+    "tokens": ["0x079504b86d38119F859c4194765029F692b7B7aa", "0x5B237ab26CeD47Fb8ED104671819C801Aa5bA45E"],
+    "website": "https://app.lyra.finance?ref=camelotdex",
+    "twitter": "https://twitter.com/lyrafinance",
+    "discord": "https://discord.gg/lyra",
+    "docs": "https://docs.lyra.finance/",
+    "blog": "https://blog.lyra.finance/",
+    "github": "https://github.com/lyra-finance/",
+  },
 ]
