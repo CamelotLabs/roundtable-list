@@ -214,5 +214,23 @@
     "discord": "https://discord.gg/QFPWUBmyAD",
     "docs": "https://docs.d2.finance/docs/",
     "blog": "https://medium.com/@Dsquaredfinance"
+  },
+  {
+    "chainId": 42161,
+    "id": "spool",
+    "name": "Spool",
+    "logo": "https://raw.githubusercontent.com/SpoolFi/branding/master/assets/logo.svg",
+    "cover": "https://raw.githubusercontent.com/SpoolFi/branding/master/assets/cover.png",
+    "tagline": "Spool: Yield for the World. Fuel for DeFi.",
+    "tags": ["yield", "vaults", "DAO"],
+    "description": "Spool is permissionless middleware that allows users and builders to access DeFi in a fully composable manner. It lays the foundation for a customizable, scalable, and efficient financial services ecosystem that bridges the gap between end users and DeFi primitives.",
+    "tokens": ["0xECA14F81085e5B8d1c9D32Dcb596681574723561"],
+    "website": "https://spool.fi/",
+    "twitter": "https://twitter.com/SpoolFi",
+    "discord": "https://discord.gg/spoolfi",
+    "docs": "https://docs.spool.fi/",
+    "blog": "https://medium.com/spoolfi",
+    "github": "https://github.com/SpoolFi",
+    "defillama": "https://defillama.com/protocol/spool-protocol"
   }
 ]
