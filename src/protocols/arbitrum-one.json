@@ -258,7 +258,7 @@
     "tagline": "The Layer 2 Governance Blackhole.",
     "tags": [ "yield", "vaults", "DAO" ],
     "description": "PlutusDAO is Arbitrums premier governance aggregator where users can get the benefit of receiving maximum rewards with maximum liquidity across an array of veASSETs through the use of plsASSETs.",
-    "tokens": [ "0x51318b7d00db7acc4026c88c3952b66278b6a67f", "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1", "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44" ],
+    "tokens": [ "0x51318B7D00db7ACc4026C88c3952B66278B6A67F", "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1", "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44" ],
     "website": "https://plutusdao.io/",
     "twitter": "https://twitter.com/PlutusDAO_io/",
     "discord": "https://discord.gg/plutusdao",
