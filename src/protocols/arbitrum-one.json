@@ -266,5 +266,24 @@
     "blog": "https://medium.com/@plutusdao.io",
     "github": "https://github.com/PlutusDAO",
     "defillama": "https://defillama.com/protocol/plutusdao"
+  },
+  {
+    "chainId": 42161,
+    "id": "abracadabra",
+    "name": "Abracadabra",
+    "logo": "https://2613419232-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mc9U0yE30Tc9xb3mVGA-1703796690%2Fuploads%2FyQzNhj0KGHc2IbBYlfTi%2FAbracadabra%20Logo%201.svg?alt=media&token=df9fe919-4a62-4650-8a91-db163cf6da61",
+    "cover": "https://2613419232-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mc9U0yE30Tc9xb3mVGA-1703796690%2Fuploads%2FxBQPmhQQowE11Yd639a4%2FDiscord%20invite%20background%201920-1080%201.svg?alt=media&token=694bc438-0704-4fc0-8726-b411940a1410",
+    "tagline": "Abracadabra is a lending protocol that allows users to borrow a USD-pegged Stablecoin (MIM) using interest-bearing tokens as collateral and enjoy leverage yield farming.",
+    "tags": ["leverage", "lending", "stablecoin"],
+    "description": "Abracadabra is a lending platform that uses interest-bearing tokens (such as magicGLP) as collateral to borrow a USD pegged stablecoin (Magic Internet Money - MIM), that can be used as any other traditional stablecoin. Thanks to Abracadabra built in leverage engine, users can leverage up on the yield produced by their favourite interest bearing collaterals.",
+    "tokens": ["0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A", "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF"],
+    "website": "https://app.abracadabra.money/",
+    "twitter": "https://twitter.com/MIM_Spell",
+    "discord": "https://discord.com/invite/mim",
+    "telegram": "",
+    "docs": "https://abracadabramoney.gitbook.io/learn/",
+    "blog": "",
+    "github": "https://github.com/Abracadabra-money",
+    "defillama": "https://defillama.com/protocol/abracadabra"
   }
 ]
