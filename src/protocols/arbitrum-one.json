@@ -8,7 +8,10 @@
     "tagline": "Umami: Home of Real Yield on Arbitrum",
     "tags": ["yield", "vaults", "DAO"],
     "description": "Umami Finance is a Decentralized Autonomous Organization (DAO) where holders vote to decide the future of the project. $UMAMI is the lifeblood of the Umami ecosystem, giving holders a direct claim on the fee revenue our products such as our upcoming flagship Delta Minimized GLP Vaults.",
-    "tokens": ["0x1622bF67e6e5747b81866fE0b85178a93C7F86e3","0x1922C36F3bc762Ca300b4a46bB2102F84B1684aB"],
+    "tokens": [
+      "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+      "0x1922C36F3bc762Ca300b4a46bB2102F84B1684aB"
+    ],
     "website": "https://umami.finance/",
     "twitter": "https://twitter.com/UmamiDao",
     "discord": "https://discord.gg/umamidao",
@@ -39,7 +42,7 @@
     "chainId": 42161,
     "id": "relay",
     "name": "Relay Chain",
-    "logo":"https://bridge.relaychain.com/images/relay_symbol.svg",
+    "logo": "https://bridge.relaychain.com/images/relay_symbol.svg",
     "cover": "https://bridge.relaychain.com/images/relay_white.svg",
     "tagline": "The Ultimate Gateway to Cross-Chain Trading",
     "tags": ["bridge", "dex", "aggregator", "omnichain"],
@@ -82,7 +85,11 @@
     "tagline": "DeFi Strategies Made Simple",
     "tags": ["options", "vaults", "strategy"],
     "description": "Jones DAO is a yield strategy and liquidity protocol with vaults that enable 1-click access to top quality strategies. These strategies unlock liquidity and capital efficiency for DeFi through yield-bearing tokens.",
-    "tokens": ["0x10393c20975cF177a3513071bC110f7962CD67da", "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0", "0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6"],
+    "tokens": [
+      "0x10393c20975cF177a3513071bC110f7962CD67da",
+      "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0",
+      "0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6"
+    ],
     "website": "https://www.jonesdao.io/",
     "twitter": "https://twitter.com/JonesDAO_io",
     "discord": "https://discord.com/invite/jonesdao",
@@ -98,7 +105,7 @@
     "logo": "https://resources.lexer.markets/images/LEXER_logo.svg",
     "cover": "https://resources.lexer.markets/images/LEXER_logo_white_sm.svg",
     "tagline": "Long,Short,Swap; Perpetual Everything",
-    "tags": ["PerpDEX","trading","yield","liquidity"],
+    "tags": ["PerpDEX", "trading", "yield", "liquidity"],
     "description": "LEXER is a Decentralized Perpetual Exchange for Crypto, Forex, NFT & more. \nLEXER is powered by its unprecedented and innovative Hybrid Liquidity Engine and Smart Router on top of an evolving group of Oracle-based Settlement Algorithms, providing best on-chain trading experience and supporting a wide range of markets with liquidity infrastructure.  ",
     "tokens": ["0x6bB7A17AcC227fd1F6781D1EEDEAE01B42047eE0"],
     "website": "https://lexer.markets/",
@@ -116,7 +123,10 @@
     "tagline": "Interest-free borrowing",
     "tags": ["borrowing", "stablecoin"],
     "description": "Interest-free LUSD borrowing on Ethereum, 100% ETH-backed, powered by immutable contracts and maximizing for resilience.",
-    "tokens": ["0x93b346b6BC2548dA6A1E7d98E9a421B42541425b", "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449"],
+    "tokens": [
+      "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+      "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449"
+    ],
     "website": "https://www.liquity.org/",
     "twitter": "https://twitter.com/liquityProtocol",
     "discord": "https://discord.gg/9yMGKrDfHK",
@@ -191,7 +201,10 @@
     "tagline": "Decentralized On-Chain iGaming Infrastructure",
     "tags": ["e-gaming", "infrastructure"],
     "description": "The WINR Protocol pioneers the transition of iGaming to web3\n by providing smart contract tools, a liquidity engine,\n and an incentive framework to builders.",
-    "tokens": ["0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E","0x63097E97BA51b64547Cf1F4Ba154495D7af74582"],
+    "tokens": [
+      "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+      "0x63097E97BA51b64547Cf1F4Ba154495D7af74582"
+    ],
     "twitter": "https://twitter.com/WINRProtocol",
     "discord": "https://discord.com/invite/VCEZmDmGBm",
     "docs": "https://docs.winr.games/",
@@ -252,20 +265,20 @@
     "defillama": "https://defillama.com/protocol/spool-protocol"
   },
   {
-      "chainId": 42161,
-      "id": "thales",
-      "name": "Thales",
-      "logo": "https://svgshare.com/i/tGn.svg",
-      "cover": "https://4774881-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKSZyDhrhMxBqaXew1MHD%2Fuploads%2FODjwDo1ByuCBWD7clmcE%2F02_ThalesLogoWordmark_NavyTransparent.svg?alt=media&token=7bccc253-7f73-40e4-8710-d6856d603784",
-      "tagline": "Liquidity and AMM solution for Exclusive Outcome markets.",
-      "tags": ["Options AMM", "Sports AMM"],
-      "description": "Thales Protocol offers an on-chain liquidity and automated market making solution for mutually exclusive events that can have binary or ternary exclusive outcomes with unprecedented capital efficiency due to our risk-based AMM architecture and minimization of toxic flow risk. Key product market fit built on top of this architecture are on-chain Sports Markets and Digital Options derivatives.",
-      "tokens": ["0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30"],
-      "website": "https://thalesmarket.io/",
-      "twitter": "https://twitter.com/thalesmarket",
-      "discord": "https://discord.gg/Thales",
-      "docs": "https://docs.thalesmarket.io/",
-      "blog": "https://thalesmarket.medium.com/"
+    "chainId": 42161,
+    "id": "thales",
+    "name": "Thales",
+    "logo": "https://svgshare.com/i/tGn.svg",
+    "cover": "https://4774881-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKSZyDhrhMxBqaXew1MHD%2Fuploads%2FODjwDo1ByuCBWD7clmcE%2F02_ThalesLogoWordmark_NavyTransparent.svg?alt=media&token=7bccc253-7f73-40e4-8710-d6856d603784",
+    "tagline": "Liquidity and AMM solution for Exclusive Outcome markets.",
+    "tags": ["Options AMM", "Sports AMM"],
+    "description": "Thales Protocol offers an on-chain liquidity and automated market making solution for mutually exclusive events that can have binary or ternary exclusive outcomes with unprecedented capital efficiency due to our risk-based AMM architecture and minimization of toxic flow risk. Key product market fit built on top of this architecture are on-chain Sports Markets and Digital Options derivatives.",
+    "tokens": ["0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30"],
+    "website": "https://thalesmarket.io/",
+    "twitter": "https://twitter.com/thalesmarket",
+    "discord": "https://discord.gg/Thales",
+    "docs": "https://docs.thalesmarket.io/",
+    "blog": "https://thalesmarket.medium.com/"
   },
   {
     "chainId": 42161,
@@ -274,9 +287,13 @@
     "logo": "https://plutusdao.io/logo_icon_only.svg",
     "cover": "https://plutusdao.io/logo.svg",
     "tagline": "The Layer 2 Governance Blackhole.",
-    "tags": [ "yield", "vaults", "DAO" ],
+    "tags": ["yield", "vaults", "DAO"],
     "description": "PlutusDAO is Arbitrums premier governance aggregator where users can get the benefit of receiving maximum rewards with maximum liquidity across an array of veASSETs through the use of plsASSETs.",
-    "tokens": [ "0x51318B7D00db7ACc4026C88c3952B66278B6A67F", "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1", "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44" ],
+    "tokens": [
+      "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+      "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
+      "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44"
+    ],
     "website": "https://plutusdao.io/",
     "twitter": "https://twitter.com/PlutusDAO_io/",
     "discord": "https://discord.gg/plutusdao",
@@ -294,7 +311,10 @@
     "tagline": "Abracadabra: leverage and borrowing.",
     "tags": ["leverage", "lending", "stablecoin"],
     "description": "Abracadabra is a lending platform that uses interest-bearing tokens (such as magicGLP) as collateral to borrow a USD pegged stablecoin (Magic Internet Money - MIM), that can be used as any other traditional stablecoin. Thanks to Abracadabra built in leverage engine, users can leverage up on the yield produced by their favourite interest bearing collaterals.",
-    "tokens": ["0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A", "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF"],
+    "tokens": [
+      "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+      "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF"
+    ],
     "website": "https://app.abracadabra.money/",
     "twitter": "https://twitter.com/MIM_Spell",
     "discord": "https://discord.com/invite/mim",
@@ -303,5 +323,27 @@
     "blog": "",
     "github": "https://github.com/Abracadabra-money",
     "defillama": "https://defillama.com/protocol/abracadabra"
+  },
+  {
+    "chainId": 42161,
+    "id": "sperax",
+    "name": "Sperax",
+    "logo": "https://sperax.io/assets/SperaxLogo.da9db1b0.svg",
+    "cover": "https://i.ibb.co/M2YXJB4/Twitter.png",
+    "tagline": "Sperax: Stablecoin and yield automator on Arbitrum",
+    "tags": ["yield", "stablecoin", "DAO"],
+    "description": "Sperax USD protocol mints USDs, a 100% collateralized stablecoin. USDs is fully on-chain, backed by on-chain collateral, and generates organic yield for their holders. SPA is the governance token of Sperax and a revenue-sharing partner of USDs. SPA can be staked to gain governance power in Sperax DAO. A SPA staker gets vote-escrowed SPA (veSPA) for staking SPA. Demeter protocol is an audited and permissionless farm launcher on UniswapV3 and Camelot. USDs and SPA trading pairs on Demeter can be added to Gauge, a reward mechanism that emits SPA based on the vote ratio of veSPA holders",
+    "tokens": [
+      "0x5575552988a3a80504bbaeb1311674fcfd40ad4b",
+      "0xd74f5255d557944cf7dd0e45ff521520002d5748"
+    ],
+    "website": "https://sperax.io/",
+    "twitter": "https://twitter.com/speraxusd",
+    "discord": "https://discord.gg/cFdcvj9jMm",
+    "docs": "https://docs.sperax.io/",
+    "blog": "https://medium.com/sperax",
+    "github": "https://github.com/Sperax",
+    "telegram": "https://t.me/SperaxUSD",
+    "defillama": "https://defillama.com/protocol/sperax"
   }
 ]
