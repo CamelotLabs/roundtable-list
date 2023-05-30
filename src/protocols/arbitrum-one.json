@@ -334,8 +334,8 @@
     "tags": ["yield", "stablecoin", "DAO"],
     "description": "Sperax USD protocol mints USDs, a 100% collateralized stablecoin. USDs is fully on-chain, backed by on-chain collateral, and generates organic yield for their holders. SPA is the governance token of Sperax and a revenue-sharing partner of USDs. SPA can be staked to gain governance power in Sperax DAO. A SPA staker gets vote-escrowed SPA (veSPA) for staking SPA. Demeter protocol is an audited and permissionless farm launcher on UniswapV3 and Camelot. USDs and SPA trading pairs on Demeter can be added to Gauge, a reward mechanism that emits SPA based on the vote ratio of veSPA holders",
     "tokens": [
-      "0x5575552988a3a80504bbaeb1311674fcfd40ad4b",
-      "0xd74f5255d557944cf7dd0e45ff521520002d5748"
+      "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+      "0xD74f5255D557944cf7Dd0E45FF521520002D5748"
     ],
     "website": "https://sperax.io/",
     "twitter": "https://twitter.com/speraxusd",
