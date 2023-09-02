@@ -345,5 +345,30 @@
     "github": "https://github.com/Sperax",
     "telegram": "https://t.me/SperaxUSD",
     "defillama": "https://defillama.com/protocol/sperax"
+  },
+  {
+    "chainId": 42161,
+    "id": "lodestar",
+    "name": "Lodestar",
+    "logo": "https://raw.githubusercontent.com/Lodestar-Finance/lodestar-assets/main/Frame_237.png",
+    "cover": "https://github.com/Lodestar-Finance/lodestar-assets/blob/main/Lodestar_Banner_1500x500px_v1.png",
+    "tagline": "Lodestar: Arbitrum's Native Money Market",
+    "tags": [
+      "yield",
+      "lending",
+      "DAO"
+    ],
+    "description": "Lodestar Finance is an algorithmic borrowing and lending protocol that brings the critical DeFi primitive of decentralized money markets to Arbitrum communities.",
+    "tokens": [
+      "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db"
+    ],
+    "website": "https://www.lodestarfinance.io/",
+    "twitter": "https://twitter.com/LodestarFinance",
+    "discord": "https://discord.gg/eTSAARtZRT",
+    "docs": "https://docs.lodestarfinance.io/",
+    "blog": "https://blog.lodestarfinance.io/",
+    "github": "https://github.com/Lodestar-Finance",
+    "telegram": "https://t.me/lodestarfinancearb",
+    "defillama": "https://defillama.com/protocol/lodestar-finance"
   }
 ]
