@@ -345,5 +345,26 @@
     "github": "https://github.com/Sperax",
     "telegram": "https://t.me/SperaxUSD",
     "defillama": "https://defillama.com/protocol/sperax"
+  },
+  {
+    "chainId": 42161,
+    "id": "dopex",
+    "name": "Dopex",
+    "logo": "BASE_URL/assets/dopex/logo.svg",
+    "cover": "BASE_URL/assets/dopex/cover.svg",
+    "tagline": "Dopex: Decentralized Options Exchange",
+    "tags": ["options", "derivatives", "yield"],
+    "description": "Dopex is a Decentralized Options Exchange protocol offering permissionless and non-custodial access to options trading, with a vision to minimize losses for option writers and maximize liquidity for option buyers.",
+    "tokens": [
+      "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "0x32Eb7902D4134bf98A28b963D26de779AF92A212"
+    ],
+    "website": "https://app.dopex.io/",
+    "twitter": "https://twitter.com/dopex_io",
+    "discord": "https://discord.gg/dopex",
+    "docs": "https://docs.dopex.io",
+    "blog": "https://blog.dopex.io",
+    "github": "https://github.com/dopex-io",
+    "defillama": "https://defillama.com/protocol/dopex"
   }
 ]
