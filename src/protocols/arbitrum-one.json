@@ -61,8 +61,8 @@
     "chainId": 42161,
     "id": "gmx",
     "name": "GMX",
-    "logo": "https://raw.githubusercontent.com/gmx-io/gmx-assets/main/GMX-Assets/SVG/GMX_LOGO%20ONLY.svg",
-    "cover": "https://raw.githubusercontent.com/gmx-io/gmx-assets/main/GMX-Assets/SVG/GMX.svg",
+    "logo": "BASE_URL/assets/gmx/logo.svg",
+    "cover": "BASE_URL/assets/gmx/cover.svg",
     "tagline": "Decentralized Perpetual Exchange",
     "tags": ["dex", "leverage", "perpetual"],
     "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading. Dynamic pricing is supported by Chainlink Oracles and an aggregate of prices from leading volume exchanges.",
@@ -370,5 +370,26 @@
     "github": "https://github.com/Lodestar-Finance",
     "telegram": "https://t.me/lodestarfinancearb",
     "defillama": "https://defillama.com/protocol/lodestar-finance"
+  },
+  {
+    "chainId": 42161,
+    "id": "dopex",
+    "name": "Dopex",
+    "logo": "BASE_URL/assets/dopex/logo.svg",
+    "cover": "BASE_URL/assets/dopex/cover.svg",
+    "tagline": "Dopex: Decentralized Options Exchange",
+    "tags": ["options", "derivatives", "yield"],
+    "description": "Dopex is a Decentralized Options Exchange protocol offering permissionless and non-custodial access to options trading, with a vision to minimize losses for option writers and maximize liquidity for option buyers.",
+    "tokens": [
+      "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "0x32Eb7902D4134bf98A28b963D26de779AF92A212"
+    ],
+    "website": "https://app.dopex.io/",
+    "twitter": "https://twitter.com/dopex_io",
+    "discord": "https://discord.gg/dopex",
+    "docs": "https://docs.dopex.io",
+    "blog": "https://blog.dopex.io",
+    "github": "https://github.com/dopex-io",
+    "defillama": "https://defillama.com/protocol/dopex"
   }
 ]

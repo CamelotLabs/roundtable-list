@@ -1,9 +1,9 @@
 [
   {
-    "chainId": 42161,
+    "chainId": 1,
     "id": "camelot",
     "name": "Camelot DEX",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22949.png",
+    "logo": "BASE_URL/assets/example.png",
     "cover": "https://camelot.exchange/img/knight-hero.svg",
     "tagline": "The Arbitrum native DEX",
     "tags": ["dex", "DAO", "yield farming"],
