@@ -351,7 +351,7 @@
     "id": "lodestar",
     "name": "Lodestar",
     "logo": "https://raw.githubusercontent.com/Lodestar-Finance/lodestar-assets/main/Frame_237.png",
-    "cover": "https://github.com/Lodestar-Finance/lodestar-assets/blob/main/Lodestar_Banner_1500x500px_v1.png",
+    "cover": "https://raw.githubusercontent.com/Lodestar-Finance/lodestar-assets/main/Lodestar_Banner_1500x500px_v1.png",
     "tagline": "Lodestar: Arbitrum's Native Money Market",
     "tags": [
       "yield",
@@ -360,7 +360,7 @@
     ],
     "description": "Lodestar Finance is an algorithmic borrowing and lending protocol that brings the critical DeFi primitive of decentralized money markets to Arbitrum communities.",
     "tokens": [
-      "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db"
+      "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB"
     ],
     "website": "https://www.lodestarfinance.io/",
     "twitter": "https://twitter.com/LodestarFinance",
