@@ -391,5 +391,27 @@
     "blog": "https://blog.dopex.io",
     "github": "https://github.com/dopex-io",
     "defillama": "https://defillama.com/protocol/dopex"
+  },
+  {
+    "chainId": 42161,
+    "id": "the-standard",
+    "name": "The Standard",
+    "logo": "https://storage.googleapis.com/the-standard-assets/TST.svg",
+    "cover": "BASE_URL/assets/the-standard/Smart-vault-stransparent.svg",
+    "tagline": "Unlock Financial Freedom with TheStandard.io Smart Vaults V2: Borrow for 0% interest, 110% collateral, trade locked collateral to not miss out on market opportunities. Liquidity farm for great rewards in GRAIL",
+    "tags": ["DeFi", "Borrowing", "Smart Vaults", "TheStandard.io", "Collateral Management", "0% Interest", "Decentralized Finance", "Liquidation Prevention", "Crypto", "Blockchain Technology", "PAXG", "ETH", "WBTC", "LINK", "GRAIL"],
+    "description": "A defining feature of Smart Vaults V2 by TheStandard.io is the ability it grants users to exchange their collateralized assets. Say, if borrowers are nearing a collateral-to-debt ratio of 110%, they have the option to swap their secured collateral for steadier assets like tokenized gold (PAXG), with the objective of maintaining value and avoiding liquidation. Thanks to a 0% Interest Rate and the absence of a deadline for debt repayment, borrowers have the luxury to wait for a market upturn to trade their collateral back to a variety of volatile assets, ensuring they're not left out of potential 'moon shots'. The addition of Pax Gold (PAXG) provides users a stable collateral choice during market upheavals.\n\"The core ethos of TheStandard.io is to eliminate the necessity of relying on 3rd party lenders like FTX or BlockFi. With the introduction of The Standard Smart Vaults 2.0 on Arbitrum, borrowers are endowed with the liberty to trade collateral and shield themselves from liquidations, all while steering clear of centralized lenders.\"\nJoshua Scigala, Co-Founder of TheStandard.io",
+    "tokens": [
+      "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
+      "0x643b34980e635719c15a2d4ce69571a258f940e9"
+    ],
+    "website": "https://thestandard.io/",
+    "twitter": "https://twitter.com/thestandard_io",
+    "discord": "https://discord.gg/THWyBQ4RzQ",
+    "docs": "https://the-standard.gitbook.io/smart-vault-contract-documentation/",
+    "blog": "https://medium.com/thestandard-io",
+    "github": "https://github.com/the-standard",
+    "telegram": "https://t.me/TheStandard_io",
+    "defillama": "https://defillama.com/protocol/the-standard"
   }
 ]
