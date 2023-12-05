@@ -391,5 +391,25 @@
     "blog": "https://blog.dopex.io",
     "github": "https://github.com/dopex-io",
     "defillama": "https://defillama.com/protocol/dopex"
+  },
+  {
+    "chainId": 42161,
+    "id": "factor",
+    "name": "Factor",
+    "logo": "BASE_URL/assets/factor/factorlogo.png",
+    "cover": "BASE_URL/assets/factor/factorcover.svg",
+    "tagline": "Factor: The Building Blocks of DeFi",
+    "tags": ["infrastructure", "vaults", "yield"],
+    "description": "Factor's DeFi middleware connects existing protocols and provides building blocks for the creation of new strategies and products. It offers a no-code interface alongside an SDK, catering to a multitude of user preferences. By abstracting away complexities, Factor reduces technical barriers, facilitating more efficient product development for new and established DeFi builders.",
+    "tokens": [
+      "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36"
+    ],
+    "website": "https://app.factor.fi/",
+    "twitter": "https://twitter.com/factorDAO",
+    "discord": "https://discord.gg/factor",
+    "docs": "https://docs.factor.fi",
+    "blog": "https://medium.com/@FactorDAO",
+    "github": "https://github.com/factorDAO",
+    "defillama": "https://defillama.com/protocol/factor"
   }
 ]
