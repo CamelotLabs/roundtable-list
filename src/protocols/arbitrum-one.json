@@ -239,12 +239,16 @@
     "tagline": "Options-Based DeFi Vaults",
     "tags": ["options", "vaults", "strategy"],
     "description": "Delivering consistent, risk-adjusted returns across market cycles through highly-secure vaults",
-    "tokens": ["0xdb0C6fC9E01cD95eb1d3bbAe6689962De489cD7B", "0x27D22Eb71f00495Eccc89Bb02c2B68E6988C6A42"],
+    "tokens": [
+      "0xed7f000eE335B8199b004cCA1c6f36d188CF6cb8",
+      "0x27D22Eb71f00495Eccc89Bb02c2B68E6988C6A42",
+      "0x1c17a39B156189BF40905425170a3Ff62fb650DA"
+    ],
     "website": "https://d2.finance/",
-    "twitter": "https://twitter.com/Dsquaredfinance",
-    "discord": "https://discord.gg/QFPWUBmyAD",
-    "docs": "https://docs.d2.finance/docs/",
-    "blog": "https://medium.com/@Dsquaredfinance"
+    "twitter": "https://twitter.com/D2_Finance",
+    "discord": "https://discord.gg/YtzhWZq3ft",
+    "docs": "https://gitbook.d2.finance",
+    "blog": "https://medium.com/@D2.Finance"
   },
   {
     "chainId": 42161,
