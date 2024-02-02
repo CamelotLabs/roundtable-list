@@ -395,5 +395,24 @@
     "blog": "https://blog.dopex.io",
     "github": "https://github.com/dopex-io",
     "defillama": "https://defillama.com/protocol/dopex"
+  },
+  {
+  "chainId": 42161,
+    "id": "premia",
+    "name": "Premia",
+    "logo": "BASE_URL/assets/premia/premia_logo.svg",
+    "cover": "BASE_URL/assets/premia/premia_banner.svg",
+    "tagline": "Permissionless crypto options for any ERC-20 on Arbitrum",
+    "tags": ["options", "derivatives", "vaults", "yield"],
+    "description": "Premia Blue allows users to trade fully customizable European Call and Put options on any ERC-20 token with a valid price oracle. Options on the platform can be purchased to gain directional exposure or sold to hedge and earn yield in the form of premiums.",
+    "tokens": ["0x51fC0f6660482Ea73330E414eFd7808811a57Fa2"],
+    "twitter": "https://twitter.com/PremiaFinance",
+    "discord": "https://discord.com/invite/premia",
+    "docs": "https://docs.premia.blue/",
+    "blog": "https://blog.premia.blue/",
+    "github": "https://github.com/premian-labs",
+    "telegram": "https://t.me/premiablue",
+    "defillama": "https://defillama.com/options/premia",
+    "website": "https://app.premia.blue/"
   }
 ]
