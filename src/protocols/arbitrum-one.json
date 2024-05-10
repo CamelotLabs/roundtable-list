@@ -1,22 +1,19 @@
 [
   {
     "chainId": 42161,
-    "id": "umami",
-    "name": "Umami Finance",
-    "logo": "https://umami.finance/camelot-assets/umami-logo.svg",
-    "cover": "https://umami.finance/camelot-assets/umami-cover.jpg",
-    "tagline": "Umami: Home of Real Yield on Arbitrum",
+    "id": "bonsaidao",
+    "name": "Bonsai DAO",
+    "logo": "BASE_URL/assets/bonsaidao/logo.svg",
+    "cover": "BASE_URL/assets/bonsaidao/cover.jpg",
+    "tagline": "Cultivating a Thriving MetaDAO Ecosystem",
     "tags": ["yield", "vaults", "DAO"],
-    "description": "Umami Finance is a Decentralized Autonomous Organization (DAO) where holders vote to decide the future of the project. $UMAMI is the lifeblood of the Umami ecosystem, giving holders a direct claim on the fee revenue our products such as our upcoming flagship Delta Minimized GLP Vaults.",
-    "tokens": [
-      "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
-      "0x1922C36F3bc762Ca300b4a46bB2102F84B1684aB"
-    ],
-    "website": "https://umami.finance/",
-    "twitter": "https://twitter.com/UmamiDao",
-    "discord": "https://discord.gg/umamidao",
-    "docs": "https://umami-dao.gitbook.io/umami-dao/",
-    "blog": "https://umamifinance.medium.com/",
+    "description": "Bonsai DAO innovates and scales the DeFi ecosystem through a network of subDAOs, utilizing a metaDAO structure to enhance governance and facilitate strategic airdrops. This approach fosters community engagement and positions Bonsai DAO as a leader in advancing decentralized finance and maximizing stakeholder value.",
+    "tokens": ["0x79EaD7a012D97eD8DeEcE279f9bC39e264d7Eef9"],
+    "website": "https://bonsaidao.xyz/",
+    "twitter": "https://twitter.com/bonsai_dao",
+    "discord": "https://discord.gg/bonsaidao",
+    "docs": "https://bonsai-dao.gitbook.io/bonsai-dao",
+    "blog": "https://medium.com/@bonsaidao.xyz",
     "github": "https://github.com/UmamiDAO",
     "defillama": "https://defillama.com/protocol/umami-finance"
   },
@@ -357,15 +354,9 @@
     "logo": "https://raw.githubusercontent.com/Lodestar-Finance/lodestar-assets/main/Frame_237.png",
     "cover": "https://raw.githubusercontent.com/Lodestar-Finance/lodestar-assets/main/Lodestar_Banner_1500x500px_v1.png",
     "tagline": "Lodestar: Arbitrum's Native Money Market",
-    "tags": [
-      "yield",
-      "lending",
-      "DAO"
-    ],
+    "tags": ["yield", "lending", "DAO"],
     "description": "Lodestar Finance is an algorithmic borrowing and lending protocol that brings the critical DeFi primitive of decentralized money markets to Arbitrum communities.",
-    "tokens": [
-      "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB"
-    ],
+    "tokens": ["0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB"],
     "website": "https://www.lodestarfinance.io/",
     "twitter": "https://twitter.com/LodestarFinance",
     "discord": "https://discord.gg/eTSAARtZRT",
@@ -397,7 +388,7 @@
     "defillama": "https://defillama.com/protocol/dopex"
   },
   {
-  "chainId": 42161,
+    "chainId": 42161,
     "id": "premia",
     "name": "Premia",
     "logo": "BASE_URL/assets/premia/premia_logo.svg",
