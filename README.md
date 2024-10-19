@@ -1,4 +1,4 @@
-# camelot-roundtable-list
+# Camelot DEX - RoundTable protocols list
 
 This GitHub repo contains the protocols list of Round Table members.
 
@@ -8,21 +8,25 @@ To add your protocol to the Round Table list, you should create your entry and s
 
 **1. Fork this repo**
 
-**2. Add your protocol in the relevant .json file in src/protocols/.**
+**2. (Optional) Add your assets in src/assets/your_protocol/.**
 
-**3. Provide the following required information for your protocol.**
+*The URI logo path in "blockchain".json will need to be set as BASE_URL/assets/your_protocol/your_asset.svg (cf example-chain.json)*
+
+**3. Add your protocol in the relevant "blockchain".json file in src/protocols/.**
+
+**4. Provide the following required information for your protocol.**
 
 - chainId (number)
 - id (string): must be unique, will be used as a slug on https://app.camelot.exchange/protocols/id
-- logo (string): url, large format, will be used on the main protocol page
-- logo-sm (string): url, small format, square, will be used in the project list
+- logo (string): url, small format square img, will be used in the project list, svg preferred
+- cover (string): url, large format img, will be used on the main protocol page as a cover image, svg preferred
 - tagline (string): one short sentence
 - tags (array): up to 3
 - description (string): up to 600 characters
 - tokens (array): list of the addresses of all your token contracts. The first one will be considered as your "main" asset
 - website (string): link to your app
 
-**4. Provide the following optional links for your protocol.**
+**5. Provide the following optional links for your protocol.**
 
 - twitter (string)
 - discord (string)
